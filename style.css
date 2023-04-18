@@ -1,0 +1,36 @@
+﻿body {
+	width: 360px;
+	line-height: 200%;
+	font-size: 1.2rem;
+	font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Yu Gothic", "Meiryo", sans-serif;
+}
+button {
+	width: 4.0rem;
+	height: 2.5rem;
+	margin-bottom: 10px;
+}
+table {
+	border: solid 1px silver;
+	width: 360px;
+}
+td.navi_button_area {
+	width: 4.0rem;
+	text-align: center;
+	vertical-align: top;
+}
+.way_title {
+	color: white;
+	background-color: green;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	width: 100px;
+	font-weight: bold;
+	text-align: center;
+}
+.route_title {
+	padding-left: 2.0rem;
+	font-weight: bold;
+}
+.route_detail {
+	font-size: 1.0rem;
+}
